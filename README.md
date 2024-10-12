@@ -16,4 +16,4 @@ I'm a DevOps Engineer and Software Developer working on cloud infrastructure, au
 
 ## 📫 Contact Me
 - [Email](mailto:sethu@example.com)
-- [LinkedIn](https://linkedin.com/in/sethu)
+- [LinkedIn](https://www.linkedin.com/in/sethu-gopalan-a8915367/)
