@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sethu Gopalan 👋
 
-<!--
-**SethuGopalan/SethuGopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a DevOps Engineer and Software Developer working on cloud infrastructure, automation, and software projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Kubernetes
+- Terraform
+- Azure DevOps
+- Python, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 My Projects
+- [FIRST_ANDAPP](https://github.com/SethuGopalan/FIRST_ANDAPP)
+- [Azure DevOps & Kubernetes](https://github.com/SethuGopalan/CHO-Azure-devops-kub-terra)
+- [Python Function App](https://github.com/SethuGopalan/Azure_Function_Python)
+
+## 📫 Contact Me
+- [Email](mailto:sethu@example.com)
+- [LinkedIn](https://linkedin.com/in/sethu)
