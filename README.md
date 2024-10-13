@@ -11,7 +11,7 @@ I'm a Software Engineer Consultant/Data Visualization working on cloud infrastru
 
 ## 📝 My Projects
 - [FIRST_ANDAPP](https://github.com/SethuGopalan/FIRST_ANDAPP)
-- [Azure DevOps & Kubernetes](https://github.com/SethuGopalan/CHO-Azure-devops-kub-terra)
+- [Currency-Converter]https://github.com/SethuGopalan/Currency-Converter
 - [Python Function App](https://github.com/SethuGopalan/Azure_Function_Python)
 
 ## 📫 Contact Me
