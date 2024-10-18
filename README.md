@@ -7,6 +7,7 @@ I'm a Software Engineer Consultant/Data Visualization working on cloud infrastru
 - Kubernetes
 - Terraform
 - Azure DevOps
+- AWS
 - Python, JavaScript
 
 ## 📝 My Projects
