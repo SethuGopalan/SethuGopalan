@@ -16,6 +16,7 @@ I'm a Software Engineer Consultant/Data Visualization working on cloud infrastru
 - [Currency-Converter](https://github.com/SethuGopalan/Currency-Converter)
 - [Calculator](https://github.com/SethuGopalan/Calculator)
 - [Data Checking Tool](https://github.com/SethuGopalan/data_checking_tool)
+- [Stock_Market_data](https://github.com/SethuGopalan/Stock_Market_data)
 
 
 ## 📫 Contact Me
