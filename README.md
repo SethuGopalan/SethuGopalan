@@ -10,6 +10,7 @@ I'm a Software Engineer Consultant/Data Visualization working on cloud infrastru
 - AWS
 - Docker
 - Python, JavaScript
+- Git Actions
 
 ## 📝 My Projects
 - [FIRST_ANDAPP](https://github.com/SethuGopalan/FIRST_ANDAPP)
