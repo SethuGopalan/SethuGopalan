@@ -1,7 +1,7 @@
 # Hi, I'm Sethu Gopalan 👋
 
 ## About Me
-I'm a Software Engineer Consultant/Data Visualization working on cloud infrastructure, automation, and software projects.
+I'm a Software Engineer/DevOps working on Data Visualization  cloud infrastructure, automation, and software projects.
 
 ## 🔧 Technologies & Tools
 - Kubernetes
