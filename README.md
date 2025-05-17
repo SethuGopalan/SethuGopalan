@@ -13,6 +13,7 @@ I'm a Software Engineer/DevOps working on Data Visualization  cloud infrastructu
 - Git Actions
 
 ## 📝 My Projects
+  [AWS Microservices](https://github.com/SethuGopalan/ServerlessFinApiDevOps)
 - [FIRST_ANDAPP](https://github.com/SethuGopalan/FIRST_ANDAPP)
 - [Currency-Converter](https://github.com/SethuGopalan/Currency-Converter)
 - [Calculator](https://github.com/SethuGopalan/Calculator)
