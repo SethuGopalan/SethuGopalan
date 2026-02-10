@@ -11,6 +11,11 @@ I'm a Software Engineer/DevOps working on Data Visualization  cloud infrastructu
 - Docker
 - Python, JavaScript
 - Git Actions
+- R
+- GCP
+- Atlassian
+- mysql
+- mongoDB
 
 ## 📝 My Projects
 
