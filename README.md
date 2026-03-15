@@ -20,6 +20,7 @@ I'm a Software Engineer/DevOps working on Data Visualization  cloud infrastructu
 ## 📝 My Projects
 
 - [AWS Microservices](https://github.com/SethuGopalan/ServerlessFinApiDevOps)
+- [MlOps image classification](https://github.com/SethuGopalan/mlops-image-classification)
 - [FIRST_ANDAPP](https://github.com/SethuGopalan/FIRST_ANDAPP)
 - [Currency-Converter](https://github.com/SethuGopalan/Currency-Converter)
 - [Calculator](https://github.com/SethuGopalan/Calculator)
