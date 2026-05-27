@@ -1,7 +1,7 @@
 # Hi, I'm Sethu Gopalan 👋
 
 ## About Me
-I'm a Software Engineer/DevOps working on Data Visualization  cloud infrastructure, automation, and software projects.
+Software Engineer and Master’s student in Data Science experienced in building backend APIs, cloud infrastructure, DevOps pipelines, and data-driven applications.Skilled in Python, AWS, Docker, Terraform, Kubernetes, FastAPI, CI/CD automation, and scalable software developmen
 
 ## 🔧 Technologies & Tools
 - Kubernetes
