@@ -4,7 +4,7 @@
 Software Engineer and M.S. Data Science student focused on AI/ML, MLOps, and cloud infrastructure. I build Python-based machine learning applications, data pipelines, model training and experiment tracking workflows using PyTorch, TensorFlow, scikit-learn, MLflow, Ray, Docker, Kubernetes, AWS, and FastAPI. Interested in building reliable AI systems and taking models from experimentation to production.
 
 ## 🔧 Technologies & Tools
-- Python
+- Python, C++
 - PyTorch, TensorFlow, scikit-learn
 - MLflow, Ray
 - PySpark, Pandas, NumPy
