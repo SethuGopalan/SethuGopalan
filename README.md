@@ -1,21 +1,22 @@
 # Hi, I'm Sethu Gopalan 👋
 
 ## About Me
-Software Engineer and Master’s student in Data Science experienced in building backend APIs, cloud infrastructure, DevOps pipelines, and data-driven applications.Skilled in Python, AWS, Docker, Terraform, Kubernetes, FastAPI, CI/CD automation, and scalable software development
+Software Engineer and M.S. Data Science student focused on AI/ML, MLOps, and cloud infrastructure. I build Python-based machine learning applications, data pipelines, model training and experiment tracking workflows using PyTorch, TensorFlow, scikit-learn, MLflow, Ray, Docker, Kubernetes, AWS, and FastAPI. Interested in building reliable AI systems and taking models from experimentation to production.
 
 ## 🔧 Technologies & Tools
-- Kubernetes
-- Terraform
-- Azure DevOps
-- AWS
-- Docker
-- Python, JavaScript
-- Git Actions
-- R
-- GCP
-- Atlassian
-- mysql
-- mongoDB
+- Python
+- PyTorch, TensorFlow, scikit-learn
+- MLflow, Ray
+- PySpark, Pandas, NumPy
+- Docker, Kubernetes
+- AWS, Azure
+- Terraform, Ansible
+- GitHub Actions, CI/CD
+- FastAPI
+- PostgreSQL, MongoDB
+- Prometheus, Grafana
+
+
 
 ## 📝 My Projects
 
