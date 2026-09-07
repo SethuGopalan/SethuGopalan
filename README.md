@@ -22,12 +22,10 @@ Software Engineer and M.S. Data Science student focused on AI/ML, MLOps, and clo
 
 - [AWS Microservices](https://github.com/SethuGopalan/ServerlessFinApiDevOps)
 - [MlOps image classification](https://github.com/SethuGopalan/mlops-image-classification)
-- [FIRST_ANDAPP](https://github.com/SethuGopalan/FIRST_ANDAPP)
-- [Currency-Converter](https://github.com/SethuGopalan/Currency-Converter)
-- [Calculator](https://github.com/SethuGopalan/Calculator)
+- [Diabetes_DashBoard](https://github.com/SethuGopalan/Diabetes_DashBoard)
 - [Data Checking Tool](https://github.com/SethuGopalan/data_checking_tool)
 - [Stock_Market_data](https://github.com/SethuGopalan/Stock_Market_data)
-- [Diabetes_DashBoard](https://github.com/SethuGopalan/Diabetes_DashBoard)
+
 
 
 ## 📫 Contact Me
